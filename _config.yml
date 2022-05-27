@@ -1,32 +1,27 @@
 # Site Data
-title: "Enjoyment Work"
-tagline: " — a Digital Garden 🌱"
-name: "Brennan Kenneth Brown"
+title: "Shubham"
+tagline: "🌱"
+name: "Shubham Shah"
 author_bio:
-  "Hey there! My name is Brennan, I'm a 24-year-old Métis web developer and content strategist from Winnipeg,
-  Manitoba and currently reside in Calgary, Alberta. I've recently compeleted a Full Stack Developer Program
-  at EvolveU, and I'm looking to help those that need web development work done, or searching for ideas and
-  management for their next content project."
-description: "A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten."
+  "sup, shubham here! I am a shadowy super coder, open-source connoisseur, internet native and a wannabe polymath. I am also a honorary member of the Scouts Regiment (shinzo wo sasageyo).<br> In my free time I am mostly computing or tinkering with stuff or reading something.<br> I am interested in scripting, web-developement, decentralization, crypto(graphy, currency), & STEAM"
+description: "my home on internet dot com"
 footer_description:
-  'The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the
-  resulting "showpiece" and more on the process, care, and craft it takes to get there. While not everybody
-  has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.'
-notes_url: "https://enjoyment-work.netlify.app"
+  'Feel free to hmu'
+notes_url: "https://shubhxms.github.io"
 profile_pic: "https://brennanbrown.ca/img/avatar.jpg"
 favicon: /assets/img/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://enjoyment-work.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://shubhxms.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 theme_color: white
 encoding: utf-8
 
 # Links and Social Media
-donate_link: https://ko-fi.com/brennanbrown
-repository: https://github.com/brennanbrown/enjoyment-work
-github: https://github.com/brennanbrown
-twitter: https://twitter.com/brennankbrown
-portfolio: https://brennanbrown.ca
-email: mail@brennanbrown.ca
+# donate_link: https://ko-fi.com/brennanbrown
+# repository: https://github.com/brennanbrown/enjoyment-work
+github: https://github.com/shubhxms
+twitter: https://twitter.com/shubhxms
+# portfolio: https://brennanbrown.ca
+email: mail.shubhxms@gmail.com
 
 # Build Settings
 theme: null
